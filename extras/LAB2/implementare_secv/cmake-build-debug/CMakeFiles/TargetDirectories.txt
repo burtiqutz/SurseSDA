@@ -1,0 +1,3 @@
+C:/Users/Alex/CLionProjects/LAB2/implementare_secv/cmake-build-debug/CMakeFiles/implementare_secv.dir
+C:/Users/Alex/CLionProjects/LAB2/implementare_secv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex/CLionProjects/LAB2/implementare_secv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

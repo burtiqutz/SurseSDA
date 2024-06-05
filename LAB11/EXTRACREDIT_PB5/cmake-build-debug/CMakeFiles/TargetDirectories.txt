@@ -1,0 +1,3 @@
+C:/SEM2/SDA/LAB11/EXTRACREDIT_PB5/cmake-build-debug/CMakeFiles/EXTRACREDIT_PB5.dir
+C:/SEM2/SDA/LAB11/EXTRACREDIT_PB5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SEM2/SDA/LAB11/EXTRACREDIT_PB5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

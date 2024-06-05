@@ -1,0 +1,3 @@
+C:/Users/Alex/CLionProjects/CCC_DAR_CU_C/cmake-build-debug/CMakeFiles/CCC_DAR_CU_C.dir
+C:/Users/Alex/CLionProjects/CCC_DAR_CU_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex/CLionProjects/CCC_DAR_CU_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

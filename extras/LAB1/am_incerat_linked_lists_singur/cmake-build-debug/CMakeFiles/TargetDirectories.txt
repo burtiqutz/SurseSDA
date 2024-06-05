@@ -1,0 +1,3 @@
+C:/Users/Alex/CLionProjects/LAB1/am_incerat_linked_lists_singur/cmake-build-debug/CMakeFiles/am_incerat_linked_lists_singur.dir
+C:/Users/Alex/CLionProjects/LAB1/am_incerat_linked_lists_singur/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex/CLionProjects/LAB1/am_incerat_linked_lists_singur/cmake-build-debug/CMakeFiles/rebuild_cache.dir

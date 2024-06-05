@@ -1,0 +1,5 @@
+# ninja log v5
+2	87	7324781837187486	CMakeFiles/LAB3.dir/main.c.obj	56d8019f88001f82
+2	170	7327036329166254	build.ninja	fe64a0ae16508167
+97	202	7324785703444109	LAB3.exe	ec537d2885fb2ab4
+0	97	7324785702414090	CMakeFiles/LAB3.dir/coada_circulara_no_size.c.obj	a3328ffb0a8857a8

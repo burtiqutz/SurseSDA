@@ -1,0 +1,5 @@
+# ninja log v5
+5	180	7351198249643761	CMakeFiles/LAB7.dir/main.c.obj	5ea0ab9860cacb7b
+0	216	7351198250023691	CMakeFiles/LAB7.dir/Boilerplate_code_liste_adiacenta_statice.c.obj	e27fd4ef3c80cb3f
+14	217	7351198250023691	CMakeFiles/LAB7.dir/Boilerplate_code_matr_adiacentza.c.obj	dd0e2b84e2f7085d
+9	221	7351198250073696	CMakeFiles/LAB7.dir/Boilerplate_code_liste_adiacenta_dinamice.c.obj	527c32f7353f2d33

@@ -1,0 +1,3 @@
+C:/SEM2/SDA/LAB11/tija/cmake-build-debug/CMakeFiles/tija.dir
+C:/SEM2/SDA/LAB11/tija/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SEM2/SDA/LAB11/tija/cmake-build-debug/CMakeFiles/rebuild_cache.dir

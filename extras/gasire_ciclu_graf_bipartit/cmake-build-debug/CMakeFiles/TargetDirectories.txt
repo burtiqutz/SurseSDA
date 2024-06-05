@@ -1,0 +1,3 @@
+C:/Users/Alex/CLionProjects/gasire_ciclu_graf_bipartit/cmake-build-debug/CMakeFiles/gasire_ciclu_graf_bipartit.dir
+C:/Users/Alex/CLionProjects/gasire_ciclu_graf_bipartit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex/CLionProjects/gasire_ciclu_graf_bipartit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

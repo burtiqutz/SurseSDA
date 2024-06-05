@@ -1,0 +1,3 @@
+C:/SEM2/SDA/LAB8_TEME_BONUS/cmake-build-debug/CMakeFiles/LAB8_TEME_BONUS.dir
+C:/SEM2/SDA/LAB8_TEME_BONUS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SEM2/SDA/LAB8_TEME_BONUS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

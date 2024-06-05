@@ -1,0 +1,3 @@
+C:/SEM2/SDA/reinvatBfs/cmake-build-debug/CMakeFiles/reinvatBfs.dir
+C:/SEM2/SDA/reinvatBfs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SEM2/SDA/reinvatBfs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

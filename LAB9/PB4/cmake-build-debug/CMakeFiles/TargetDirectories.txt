@@ -1,0 +1,3 @@
+C:/SEM2/SDA/LAB9/PB4/cmake-build-debug/CMakeFiles/PB4.dir
+C:/SEM2/SDA/LAB9/PB4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SEM2/SDA/LAB9/PB4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
